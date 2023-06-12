@@ -6,12 +6,12 @@ function Prints() {
       <h2>Prints</h2>
       <p>
         Every photograph on this site is available for purchase in print form. I
-        use a local Salt Lake City company called Replicolor to outsource my
-        printing needs. They are great. If you tell me what material and what
-        size you would like for the photo, I will arrange everything else.
+        offer a variety of sizes and mediums. If you are interested in
+        purchasing a print, contact me via email and let me know what you are
+        interested in. I will get back to you with a quote and we can go from
+        there.
         <br />
-        <br />
-        If you need to get in touch with me I can be reached via email.
+        <br />I can be reached at the email address below.
       </p>
       <h3>rustydustyryan@gmail.com</h3>
     </div>

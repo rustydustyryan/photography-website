@@ -1,5 +1,5 @@
 import React from 'react';
-import Next from './Next';
+import Next from '../comps/Next';
 
 function Home() {
   return (

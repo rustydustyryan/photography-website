@@ -1,7 +1,7 @@
 import React, { isValidElement } from 'react';
 import { useState } from 'react';
-import Next from './Next';
-import Prev from './Prev';
+import Next from '../comps/Next';
+import Prev from '../comps/Prev';
 
 function Portraits() {
   return (
@@ -11,7 +11,7 @@ function Portraits() {
         <img src='./media/Anna/Anna.jpg' />
         <img src='./media/Breawna/BreawnaDreaming1.jpg' className='breawna' />
         <img src='./media/Isaac/IsaacZion9.jpg' className='isaac' />
-        <img src='./media/Self/Ryan254.jpg' />
+        <img src='./media/Self/Ryan306.jpg' />
         <img src='./media/Jada/JadaSun4.jpg' />
         <img src='./media/Parker/Parker9.jpg' />
         <img src='./media/Students/Alyssa.jpg' />

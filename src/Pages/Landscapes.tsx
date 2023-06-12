@@ -1,6 +1,6 @@
 import React from 'react';
-import Next from './Next';
-import Prev from './Prev';
+import Next from '../comps/Next';
+import Prev from '../comps/Prev';
 
 function Landscapes() {
   return (
