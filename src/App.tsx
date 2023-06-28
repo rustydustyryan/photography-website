@@ -4,6 +4,7 @@ import Landscapes from './Pages/Landscapes';
 import Portraits from './Pages/Portraits';
 import Prints from './Pages/Prints';
 import Contact from './Pages/Contact';
+// import Lightbox from './comps/Lightbox';
 
 function App() {
   return (
