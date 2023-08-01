@@ -3,12 +3,12 @@ import React from 'react';
 function CoffeeGuy() {
   return (
     <div>
-      <img src='/public/CoffeeGuy/CoffeeGuy1.jpg' />
-      <img src='/public/CoffeeGuy/CoffeeGuy4.jpg' />
-      <img src='/public/CoffeeGuy/CoffeeGuy8.jpg' />
-      <img src='/public/CoffeeGuy/CoffeeGuy9.jpg' />
-      <img src='/public/CoffeeGuy/CoffeeGuy10.jpg' />
-      <img src='/public/CoffeeGuy/CoffeeGuyFinal.jpg' />
+      <img src='/CoffeeGuy/CoffeeGuy1.jpg' />
+      <img src='/CoffeeGuy/CoffeeGuy4.jpg' />
+      <img src='/CoffeeGuy/CoffeeGuy8.jpg' />
+      <img src='/CoffeeGuy/CoffeeGuy9.jpg' />
+      <img src='/CoffeeGuy/CoffeeGuy10.jpg' />
+      <img src='/CoffeeGuy/CoffeeGuyFinal.jpg' />
     </div>
   );
 }

@@ -18,7 +18,7 @@ function Contact() {
           <br />
         </div>
         {/* <div>
-        <img className='ryan' src='/public/Ryan15.jpg' alt='' />
+        <img className='ryan' src='/Ryan15.jpg' alt='' />
       </div> */}
         <div>
           <p>

@@ -5,7 +5,7 @@ function Home() {
   return (
     <>
       <div className='hero'>
-        <img src='/public/Landscapes/Zion.jpg' />
+        <img src='/Landscapes/Zion.jpg' />
         <Next to='/landscapes' />
       </div>
     </>

@@ -8,23 +8,16 @@ function Portraits() {
   return (
     <>
       <div className='portraits hero'>
-        <img src='/public/CoffeeGuy/CoffeeGuyFinal.jpg' className='zoom-img' />
-        <img
-          onClick={Lightbox}
-          src='/public/Anna/Anna.jpg'
-          className='zoom-img'
-        />
-        <img
-          src='/public/Breawna/BreawnaDreaming1.jpg'
-          className='breawna zoom-img'
-        />
-        <img src='/public/Isaac/IsaacZion9.jpg' className='isaac zoom-img' />
-        <img src='/public/Self/Ryan306.jpg' className='zoom-img' />
-        <img src='/public/Jada/JadaSun4.jpg' className='zoom-img' />
-        <img src='/public/Parker/Parker9.jpg' className='zoom-img' />
-        <img src='/public/Students/Alyssa.jpg' className='zoom-img' />
-        <img src='/public/Vinyl/Vinyl10.jpg' className='zoom-img' />
-        <img src='/public/Couple/Couple4.jpg' className='zoom-img' />
+        <img src='/CoffeeGuy/CoffeeGuyFinal.jpg' className='zoom-img' />
+        <img onClick={Lightbox} src='/Anna/Anna.jpg' className='zoom-img' />
+        <img src='/Breawna/BreawnaDreaming1.jpg' className='breawna zoom-img' />
+        <img src='/Isaac/IsaacZion9.jpg' className='isaac zoom-img' />
+        <img src='/Self/Ryan306.jpg' className='zoom-img' />
+        <img src='/Jada/JadaSun4.jpg' className='zoom-img' />
+        <img src='/Parker/Parker9.jpg' className='zoom-img' />
+        <img src='/Students/Alyssa.jpg' className='zoom-img' />
+        <img src='/Vinyl/Vinyl10.jpg' className='zoom-img' />
+        <img src='/Couple/Couple4.jpg' className='zoom-img' />
         <Next to='/Prints' />
         <Prev to='/Landscapes' />
         <Lightbox />
